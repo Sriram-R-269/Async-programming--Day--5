@@ -1,0 +1,9 @@
+button{
+    display: block;
+    margin: 50%;
+    color: rgb(90, 47, 131);
+    font-size: medium;
+    font-style: italic;
+    padding: 3px;
+    background-color: rgb(102, 171, 148);
+}
